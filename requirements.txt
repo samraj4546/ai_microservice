@@ -1,6 +1,4 @@
 fastapi
 uvicorn
-openai
-python-dotenv
-
-
+openai>=1.0.0
+pydantic
