@@ -1,0 +1,4 @@
+fastapi
+unicorn
+openai
+python-dotenv
